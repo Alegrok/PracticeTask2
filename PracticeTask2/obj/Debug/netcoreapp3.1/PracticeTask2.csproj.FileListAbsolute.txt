@@ -1,0 +1,11 @@
+C:\Users\Aleksandr\source\repos\PracticeTask2\PracticeTask2\bin\Debug\netcoreapp3.1\PracticeTask2.exe
+C:\Users\Aleksandr\source\repos\PracticeTask2\PracticeTask2\bin\Debug\netcoreapp3.1\PracticeTask2.deps.json
+C:\Users\Aleksandr\source\repos\PracticeTask2\PracticeTask2\bin\Debug\netcoreapp3.1\PracticeTask2.runtimeconfig.json
+C:\Users\Aleksandr\source\repos\PracticeTask2\PracticeTask2\bin\Debug\netcoreapp3.1\PracticeTask2.runtimeconfig.dev.json
+C:\Users\Aleksandr\source\repos\PracticeTask2\PracticeTask2\bin\Debug\netcoreapp3.1\PracticeTask2.dll
+C:\Users\Aleksandr\source\repos\PracticeTask2\PracticeTask2\bin\Debug\netcoreapp3.1\PracticeTask2.pdb
+C:\Users\Aleksandr\source\repos\PracticeTask2\PracticeTask2\obj\Debug\netcoreapp3.1\PracticeTask2.csprojAssemblyReference.cache
+C:\Users\Aleksandr\source\repos\PracticeTask2\PracticeTask2\obj\Debug\netcoreapp3.1\PracticeTask2.AssemblyInfoInputs.cache
+C:\Users\Aleksandr\source\repos\PracticeTask2\PracticeTask2\obj\Debug\netcoreapp3.1\PracticeTask2.AssemblyInfo.cs
+C:\Users\Aleksandr\source\repos\PracticeTask2\PracticeTask2\obj\Debug\netcoreapp3.1\PracticeTask2.dll
+C:\Users\Aleksandr\source\repos\PracticeTask2\PracticeTask2\obj\Debug\netcoreapp3.1\PracticeTask2.pdb
